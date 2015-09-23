@@ -11,7 +11,7 @@ menu:
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo,next"
+keywords: "blog,weishu,android,python"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -50,7 +50,7 @@ sidebar: post
 
 
 # Automatically scroll page to section which is under <!-- more --> mark.
-scroll_to_more: true
+scroll_to_more: false
 
 
 # Automatically add list number to toc.
@@ -58,8 +58,8 @@ toc_list_number: true
 
 # Automatically Excerpt
 auto_excerpt:
-  enable: true
-  length: 150
+  enable: false
+  length: 350
 
 # Use Lato font
 # Note: this option is avialable only when the language is not `zh-Hans`
